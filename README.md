@@ -1,1 +1,1 @@
-# image-management-application
+# photo-manager
